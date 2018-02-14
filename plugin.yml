@@ -1,0 +1,7 @@
+name: Pbau
+author: Patricktopgames
+main: me.SkyBauVirtual.Main
+version: 1.0
+commands:
+    bau:
+        aliases: [chest]
